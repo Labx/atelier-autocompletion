@@ -3,15 +3,15 @@
 ### Table des matières
 
 - [Préambule](#préambule)
-- [Répertoire `/etc/`](#Répertoire-/etc/)
-- [`cd ~` répertoire personnel](#cd-~-répertoire-personnel)
-- [`cd -` revenir dans le répertoire précédent](#cd--revenir-dans-le-répertoire-précédent)
-- [Auto-complétion](#Auto-complétion)
-    - [Exemples](#Exemples)
-        - [Compléter le nom d'un répertoire](#Compléter-le-nom-d-un-répertoire)
-        - [Compléter les sous-répertoires](#Compléter-les-sous-répertoires)
-        - [Compléter à partir de la racine](#Compléter-à-partir-de-la-racine)
-- [Chemin Tronc vs. branche](#Chemin-Tronc-vs.-branche)
+- [Répertoire `/etc/`](#répertoire-etc)
+- [`cd ~` répertoire personnel](#cd--répertoire-personnel)
+- [`cd -` revenir dans le répertoire précédent](#cd---revenir-dans-le-répertoire-précédent)
+- [Auto-complétion](#auto-complétion)
+    - [Exemples](#exemples)
+        - [Compléter le nom d'un répertoire](#compléter-le-nom-d-un-répertoire)
+        - [Compléter les sous-répertoires](#compléter-les-sous-répertoires)
+        - [Compléter à partir de la racine](#compléter-à-partir-de-la-racine)
+- [Chemin Tronc vs. branche](#chemin-Tronc-vs-branche)
 
 ## Préambule
 
