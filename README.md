@@ -1,13 +1,16 @@
-# Atelier CLI, Arborescence `cd`
+# Atelier CLI, Autocomplétion et `cd`
 
 ### Table des matières
 
 - [Préambule](#préambule)
 - [Répertoire `/etc/`](#Répertoire-/etc/)
-- [`cd ~` répertoire personnel](cd-~-répertoire-personnel)
+- [`cd ~` répertoire personnel](#cd-~-répertoire-personnel)
 - [`cd -` revenir dans le répertoire précédent](#cd--revenir-dans-le-répertoire-précédent)
 - [Auto-complétion](#Auto-complétion)
     - [Exemples](#Exemples)
+        - [Compléter le nom d'un répertoire](#Compléter-le-nom-d-un-répertoire)
+        - [Compléter les sous-répertoires](#Compléter-les-sous-répertoires)
+        - [Compléter à partir de la racine](#Compléter-à-partir-de-la-racine)
 - [Chemin Tronc vs. branche](#Chemin-Tronc-vs.-branche)
 
 ## Préambule
