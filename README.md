@@ -1,4 +1,4 @@
-# Atelier CLI, Autocomplétion et `cd`
+# Atelier CLI, Arborescence `cd`
 
 ### Table des matières
 
