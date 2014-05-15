@@ -1,4 +1,4 @@
-# Atelier CLI, Arborescence `cd`
+# Atelier CLI, Arborescence et `cd`
 
 ### Table des matières
 
